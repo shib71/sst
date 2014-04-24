@@ -1,0 +1,11 @@
+{
+  "name": "sst",
+  "version": "0.0.0",
+  "description": "Semi-structured text parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blair McKenzie <shib71@gmail.com>",
+  "license": "MIT"
+}
